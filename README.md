@@ -1,0 +1,1 @@
+This is an experimental licensing system that I have created in 2016 in PHP using lumen (laravel)
